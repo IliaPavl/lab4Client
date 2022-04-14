@@ -1,0 +1,7 @@
+export const LOGIN_ROUTE = '/login'
+export const REGISTRATION_ROUTE = '/registration'
+export const HOME_PAGE = '/'
+export const USER_LIST = '/userList'
+export const MESSENGER = '/messenger'
+export const UPDATE_USER = '/update'
+export const DELITE_USER = '/delite'
